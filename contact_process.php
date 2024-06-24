@@ -1,6 +1,10 @@
 <?php
 
+<<<<<<< HEAD
     $to = "spn8@spondonit.com";
+=======
+    $to = "andilemkhala25@gmail.com";
+>>>>>>> 10b7bd0dd9c6cdfe8ebc84df0eb9c06e6bcba799
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $subject = $_REQUEST['subject'];

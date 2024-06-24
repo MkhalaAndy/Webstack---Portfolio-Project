@@ -355,7 +355,11 @@ $(document).ready(function() {
 		focus: '#name',
 
 		// When elemened is focused, some mobile browsers in some cases zoom in
+<<<<<<< HEAD
 		// It looks not nice, so we disable it:
+=======
+		// It looks not nice, so I disable it:
+>>>>>>> 10b7bd0dd9c6cdfe8ebc84df0eb9c06e6bcba799
 		callbacks: {
 			beforeOpen: function() {
 				if($(window).width() < 700) {
